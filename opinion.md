@@ -9,6 +9,7 @@ Before reading basics of GitHub, some of its terms looked strange for me :smile:
 * Forks
 * Issues
 * Pull requests   
+
 But now, for example, I can distinguish the difference between **cloning** and **forking** a repository.
 
 # Things I am still confused about
